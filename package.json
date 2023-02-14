@@ -1,5 +1,5 @@
 {
-  "name": "indexeddb-promise",
+  "name": "@mh35/indexeddb-promise",
   "version": "1.0.0",
   "description": "Promise-based IndexedDB library",
   "main": "index.js",

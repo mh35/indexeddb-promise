@@ -1,0 +1,26 @@
+{
+  "name": "indexeddb-promise",
+  "version": "1.0.0",
+  "description": "Promise-based IndexedDB library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mh35/indexeddb-promise.git"
+  },
+  "keywords": [
+    "indexeddb"
+  ],
+  "author": "MH35",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mh35/indexeddb-promise/issues"
+  },
+  "homepage": "https://github.com/mh35/indexeddb-promise#readme",
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  }
+}
